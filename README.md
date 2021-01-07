@@ -5,9 +5,6 @@ A small attempt to make an e-commerce user interface in Flutter for Android and 
 **Mahar Catur Ferniza** [![Instagram Follow Follow]](https://www.instagram.com/mhrctrfrnz/)
 
 
-### App design screen
-<img src="screens/app_screenshot.png" />
-
 
 ## ✨ Requirements
 * Any Operating System (ie. MacOS X, Linux, Windows)
